@@ -1,0 +1,4 @@
+#|
+$JSON
+{"authURL":["ai2.appinventor.mit.edu"],"YaVersion":"213","Source":"Form","Properties":{"$Name":"Screen4","$Type":"Form","$Version":"30","AppName":"smart_home","Title":"Screen4","Uuid":"0","$Components":[{"$Name":"Button1","$Type":"Button","$Version":"7","Text":"Speed 1","Uuid":"-2085226336"},{"$Name":"Button2","$Type":"Button","$Version":"7","Text":"Speed 2","Uuid":"1965219238"},{"$Name":"Button4","$Type":"Button","$Version":"7","Text":"Switch OFF","Uuid":"262032379"},{"$Name":"Button3","$Type":"Button","$Version":"7","BackgroundColor":"&HFFFFC800","Text":"BACK","Uuid":"1282098877"},{"$Name":"Web1","$Type":"Web","$Version":"8","Uuid":"1585278946"}]}}
+|#

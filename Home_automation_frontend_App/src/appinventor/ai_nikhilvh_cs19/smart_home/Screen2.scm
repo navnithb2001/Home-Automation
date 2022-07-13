@@ -1,0 +1,4 @@
+#|
+$JSON
+{"authURL":["ai2.appinventor.mit.edu"],"YaVersion":"213","Source":"Form","Properties":{"$Name":"Screen2","$Type":"Form","$Version":"30","AppName":"smart_home","Title":"Screen2","Uuid":"0","$Components":[{"$Name":"Button1","$Type":"Button","$Version":"7","FontBold":"True","FontSize":"20","FontTypeface":"3","Shape":"1","Text":"BACK","Uuid":"1308925867"},{"$Name":"WebViewer1","$Type":"WebViewer","$Version":"10","HomeUrl":"https:\/\/thingspeak.com\/channels\/1490374\/charts\/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15","Uuid":"-941014443"},{"$Name":"WebViewer2","$Type":"WebViewer","$Version":"10","HomeUrl":"https:\/\/thingspeak.com\/channels\/1490374\/charts\/2?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15","Uuid":"-425970889"}]}}
+|#
